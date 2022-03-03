@@ -1,0 +1,277 @@
+.contacts-block {
+  display: flex;
+  flex-direction: column;
+  background-color: #404040; }
+
+.contacts-block.layout {
+  position: relative;
+  overflow: hidden;
+  min-height: 1080px;
+  flex-shrink: 0; }
+
+.contacts-content-box {
+  display: flex;
+  background-color: #515151; }
+
+.contacts-content-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content; }
+
+.contacts-hero-title2-box {
+  display: flex;
+  justify-content: center; }
+
+.contacts-hero-title2-box.layout {
+  position: relative;
+  flex: 0 0 auto;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 32px 0px 32px 160px; }
+
+.contacts-hero-title2 {
+  font: 800 40px/1.2 "Roboto", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px; }
+
+.contacts-hero-title2-span0 {
+  font: 800 1em/1.2 "Roboto", Helvetica, Arial, serif;
+  color: #1890ffff;
+  letter-spacing: 0px; }
+
+.contacts-hero-title2-span1 {
+  font: 800 1em/1.2 "Roboto", Helvetica, Arial, serif;
+  color: #ffffffff;
+  letter-spacing: 0px; }
+
+.contacts-content-box-spacer {
+  flex: 0 1 444px; }
+
+.contacts-hero-title3 {
+  display: flex;
+  justify-content: center;
+  font: 600 35px/1.2 "Roboto", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+  letter-spacing: 0px; }
+
+.contacts-hero-title3.layout {
+  position: relative;
+  flex: 0 0 auto;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 41px 0px 27px; }
+
+.contacts-content-box-spacer1 {
+  flex: 0 1 146.5px; }
+
+.contacts-content-box-spacer2 {
+  flex: 0 1 161.5px; }
+
+.contacts-hero-title3.layout1 {
+  position: relative;
+  flex: 0 0 auto;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 42px 163px 26px 0px; }
+
+.contacts-hero-title-box {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.contacts-hero-title-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 21.3%;
+  margin: 169px 52.34% 0px 26.35%; }
+
+.contacts-hero-title {
+  font: 700 68px/1.2 "Rockwell", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px; }
+
+.contacts-hero-title-span0 {
+  font: 700 1em/1.2 "Rockwell", Helvetica, Arial, serif;
+  color: #1890ffff;
+  letter-spacing: 0px; }
+
+.contacts-hero-title-span1 {
+  font: 700 1em/1.2 "Rockwell", Helvetica, Arial, serif;
+  color: #ffffffff;
+  letter-spacing: 0px; }
+
+.contacts-flex {
+  display: flex; }
+
+.contacts-flex.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 52.76%;
+  margin: 0px 20.89% 279px 26.35%; }
+
+.contacts-flex-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 201px; }
+
+.contacts-cover-block {
+  display: flex;
+  flex-direction: column; }
+
+.contacts-cover-block.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 0px 129px; }
+
+.contacts-box1 {
+  background-color: #c4c4c4;
+  border: 8px solid #1890ff;
+  border-radius: 10px 10px 10px 10px; }
+
+.contacts-box1.layout {
+  position: absolute;
+  top: 0px;
+  height: 301px;
+  left: 0px;
+  right: 0px; }
+
+.contacts-image {
+  background: var(--src) center center/contain no-repeat; }
+
+.contacts-image.layout {
+  position: relative;
+  height: 279px;
+  margin: 11px; }
+
+.contacts-flex-spacer {
+  flex: 0 1 34px; }
+
+.contacts-flex-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 778px; }
+
+.contacts-cover-block1 {
+  display: flex;
+  flex-direction: column; }
+
+.contacts-cover-block1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content; }
+
+.contacts-box {
+  background-color: #404040;
+  border: 4px solid #1890ff;
+  border-radius: 10px 10px 10px 10px; }
+
+.contacts-box.layout {
+  position: absolute;
+  top: 0px;
+  height: 430px;
+  left: 0px;
+  right: 0px; }
+
+.contacts-foreground {
+  display: flex;
+  flex-direction: column; }
+
+.contacts-foreground.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 33px 34.5px 32px 33px; }
+
+.contacts-icon {
+  background: var(--src) center center/contain no-repeat; }
+
+.contacts-icon.layout {
+  position: absolute;
+  top: 0px;
+  height: 77px;
+  left: 0px;
+  width: 79px;
+  min-width: 79px;
+  margin: 288px 0px 0px; }
+
+.contacts-icon1 {
+  background: var(--src) center center/contain no-repeat; }
+
+.contacts-icon1.layout {
+  position: absolute;
+  top: 0px;
+  height: 78px;
+  left: 0px;
+  width: 79px;
+  min-width: 79px;
+  margin: 145px 0px 142px; }
+
+.contacts-hero-title1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 600 36px/1.2 "Roboto", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+  letter-spacing: 0px; }
+
+.contacts-hero-title1.layout {
+  position: absolute;
+  top: 17px;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  bottom: 304px;
+  left: 0px;
+  right: 0px;
+  width: 40.68%;
+  margin: 0px 37.79% 0px 21.53%; }
+
+.contacts-hero-title1.layout1 {
+  position: absolute;
+  top: 305px;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  bottom: 16px;
+  left: 0px;
+  right: 0px;
+  width: 45.18%;
+  margin: 0px 33.99% 0px 20.83%; }
+
+.contacts-hero-title1.layout2 {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 78.68%;
+  margin: 163px 0% 158px 21.32%; }
+
+.contacts-icon2 {
+  background: var(--src) center center/contain no-repeat; }
+
+.contacts-icon2.layout {
+  position: absolute;
+  top: 0px;
+  height: 79px;
+  left: 0px;
+  width: 79px;
+  min-width: 79px;
+  margin: 0px 0px 286px; }

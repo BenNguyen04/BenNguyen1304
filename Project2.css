@@ -1,0 +1,385 @@
+.project2-block {
+  display: flex;
+  flex-direction: column;
+  background-color: #404040; }
+
+.project2-block.layout {
+  position: relative;
+  overflow: hidden;
+  min-height: 1080px;
+  flex-shrink: 0; }
+
+.project2-group {
+  display: flex;
+  flex-direction: column; }
+
+.project2-group.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content; }
+
+.project2-block1 {
+  display: flex;
+  flex-direction: column;
+  background-color: #515151; }
+
+.project2-block1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 75%;
+  margin: 0px 25% 0px 0%; }
+
+.project2-flex {
+  display: flex; }
+
+.project2-flex.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 83.33%;
+  margin: 23px auto; }
+
+.project2-hero-title1-box {
+  display: flex;
+  justify-content: center; }
+
+.project2-hero-title1-box.layout {
+  position: relative;
+  flex: 0 0 auto;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 9px 0px; }
+
+.project2-hero-title1 {
+  font: 800 40px/1.2 "Roboto", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px; }
+
+.project2-hero-title1-span0 {
+  font: 800 1em/1.2 "Roboto", Helvetica, Arial, serif;
+  color: #1890ffff;
+  letter-spacing: 0px; }
+
+.project2-hero-title1-span1 {
+  font: 800 1em/1.2 "Roboto", Helvetica, Arial, serif;
+  color: #ffffffff;
+  letter-spacing: 0px; }
+
+.project2-flex-spacer {
+  flex: 0 1 299px; }
+
+.project2-flex-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 190px; }
+
+.project2-block2 {
+  display: flex;
+  flex-direction: column; }
+
+.project2-block2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 18px 0px 0px; }
+
+.project2-hero-title2 {
+  display: flex;
+  justify-content: center;
+  font: 600 35px/1.2 "Roboto", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+  letter-spacing: 0px; }
+
+.project2-hero-title2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 14px 4px; }
+
+.project2-flex-spacer1 {
+  flex: 0 1 40px; }
+
+.project2-flex-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 217px; }
+
+.project2-block3 {
+  display: flex;
+  flex-direction: column; }
+
+.project2-block3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 18px 0px 0px; }
+
+.project2-hero-title2.layout1 {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 11.5px 4px; }
+
+.project2-flex-spacer2 {
+  flex: 0 1 40px; }
+
+.project2-hero-title2.layout2 {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 0px 4px; }
+
+.project2-block4 {
+  display: flex;
+  flex-direction: column;
+  background-color: #515151; }
+
+.project2-block4.layout {
+  position: absolute;
+  top: 0px;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  bottom: 0px;
+  left: 0px;
+  right: 0px; }
+
+.project2-flex1 {
+  display: flex; }
+
+.project2-flex1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 83.33%;
+  margin: 23px auto; }
+
+.project2-hero-title11-box {
+  display: flex;
+  justify-content: center; }
+
+.project2-hero-title11-box.layout {
+  position: relative;
+  flex: 0 0 auto;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 9px 0px; }
+
+.project2-hero-title11-span0 {
+  font: 800 1em/1.2 "Roboto", Helvetica, Arial, serif;
+  color: #1890ffff;
+  letter-spacing: 0px; }
+
+.project2-hero-title11-span1 {
+  font: 800 1em/1.2 "Roboto", Helvetica, Arial, serif;
+  color: #ffffffff;
+  letter-spacing: 0px; }
+
+.project2-flex1-spacer {
+  flex: 0 1 398px; }
+
+.project2-flex1-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 254px; }
+
+.project2-block5 {
+  display: flex;
+  flex-direction: column; }
+
+.project2-block5.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 18px 0px 0px; }
+
+.project2-hero-title2.layout3 {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 0px 4px; }
+
+.project2-flex1-spacer1 {
+  flex: 0 1 53px; }
+
+.project2-flex1-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 596px; }
+
+.project2-block6 {
+  display: flex;
+  flex-direction: column; }
+
+.project2-block6.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 18px 307px 0px 0px; }
+
+.project2-hero-title2.layout4 {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 0px 4px; }
+
+.project2-hero-title2.layout5 {
+  position: absolute;
+  top: 42px;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  bottom: 26px;
+  left: 0px;
+  right: 0px;
+  width: 9.9%;
+  margin: 0px 8.49% 0px 81.61%; }
+
+.project2-hero-title-box {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.project2-hero-title-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 45px 0px 0px; }
+
+.project2-hero-title {
+  font: 700 68px/1.2 "Rockwell", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px; }
+
+.project2-hero-title-span0 {
+  font: 700 1em/1.2 "Rockwell", Helvetica, Arial, serif;
+  color: #ffffffff;
+  letter-spacing: 0px; }
+
+.project2-hero-title-span1 {
+  font: 700 1em/1.2 "Rockwell", Helvetica, Arial, serif;
+  color: #1890ffff;
+  letter-spacing: 0px; }
+
+.project2-flex2 {
+  display: flex; }
+
+.project2-flex2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 90.94%;
+  margin: 72px auto 0px; }
+
+.project2-flex2-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 701px; }
+
+.project2-cover-block {
+  display: flex;
+  flex-direction: column; }
+
+.project2-cover-block.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content; }
+
+.project2-box {
+  background-color: #404040;
+  border: 4px solid #1890ff;
+  border-radius: 10px 10px 10px 10px; }
+
+.project2-box.layout {
+  position: absolute;
+  top: 0px;
+  height: 632px;
+  left: 0px;
+  right: 0px; }
+
+.project2-medium-title-box {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.project2-medium-title-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 88.3%;
+  margin: 56.5px auto; }
+
+.project2-medium-title {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 24px/1.2 "RobotoFlex", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+  letter-spacing: 0px;
+  white-space: pre-wrap; }
+
+.project2-flex2-spacer {
+  flex: 0 1 20px; }
+
+.project2-flex2-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 1025px; }
+
+.project2-image {
+  background: var(--src) center center/contain no-repeat; }
+
+.project2-image.layout {
+  position: relative;
+  height: 593px;
+  margin: 19px 0px 20px; }
+
+.project2-block7 {
+  display: flex;
+  flex-direction: column; }
+
+.project2-block7.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 5.42%;
+  margin: 71px 1.2% 12px 93.39%; }
+
+.project2-hero-title2.layout6 {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 10.5px 4px; }
